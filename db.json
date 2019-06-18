@@ -1,0 +1,68 @@
+{
+  "consulta-registro": [
+    { "id": 1, 
+	  "numeroContrato": "112322152-CV", 
+	  "numeroAditivo": "111356458XX", 
+	  "chassi": "CPCBLCX11000237", 
+	  "dataEnvio": "21/02/2019", 
+	  "dataRegistro": "21/02/2019",
+	  "tipoRestricao": "Alienação Fiduciária",
+	  "ativo": "Sim"
+	 },
+	{ "id": 2, 
+	  "numeroContrato": "222322152-CV", 
+	  "numeroAditivo": "221356458XX", 
+	  "chassi": "CPCBLCX11000237", 
+	  "dataEnvio": "21/02/2019", 
+	  "dataRegistro": "21/02/2019",
+	  "tipoRestricao": "Alienação Fiduciária",
+	  "ativo": "Sim"
+	 },
+	{ "id": 3, 
+	  "numeroContrato": "332322152-CV", 
+	  "numeroAditivo": "331356458XX", 
+	  "chassi": "CPCBLCX11000237", 
+	  "dataEnvio": "21/02/2019", 
+	  "dataRegistro": "21/02/2019",
+	  "tipoRestricao": "Alienação Fiduciária",
+	  "ativo": "Sim"
+	 }	 
+  ],
+  "fatura-cobranca": [
+    { "id": 1, 
+	  "dataFatura": "Janeiro/19",
+	  "dataVencimento": "02/02/2019",
+	  "dataPagamento": "02/02/2019",
+	  "situacao": "pago",
+	  "valor": 500
+	},
+	{ "id": 2, 
+	  "dataFatura": "Fevereiro/19",
+	  "dataVencimento": "02/02/2019",
+	  "dataPagamento": "02/02/2019",
+	  "situacao": "pago",
+	  "valor": 500
+	},
+	{ "id": 3, 
+	  "dataFatura": "Março/19",
+	  "dataVencimento": "02/02/2019",
+	  "dataPagamento": "02/02/2019",
+	  "situacao": "pago",
+	  "valor": 500
+	},
+	{ "id": 4, 
+	  "dataFatura": "Abril/19",
+	  "dataVencimento": "02/02/2019",
+	  "dataPagamento": "02/02/2019",
+	  "situacao": "pago",
+	  "valor": 500
+	},
+	{ "id": 5, 
+	  "dataFatura": "Maio/19",
+	  "dataVencimento": "02/02/2019",
+	  "dataPagamento": "02/02/2019",
+	  "situacao": "pago",
+	  "valor": 500
+	}
+  ]
+}
